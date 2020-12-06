@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Protocol.aux
+The style file: jurabib.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: protocol.bib
+Warning--Empty author and editor in VT100
+Warning--No address in VS1011
+You've used 7 entries,
+            7954 wiz_defined-function locations,
+            1428 strings with 11286 characters,
+and the built_in function-call counts, 4820 in all, are:
+= -- 362
+> -- 108
+< -- 12
++ -- 43
+- -- 36
+* -- 422
+:= -- 693
+add.period$ -- 0
+call.type$ -- 7
+change.case$ -- 27
+chr.to.int$ -- 7
+cite$ -- 19
+duplicate$ -- 221
+empty$ -- 589
+format.name$ -- 114
+if$ -- 1042
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 31
+newline$ -- 69
+num.names$ -- 48
+pop$ -- 102
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 234
+stack$ -- 0
+substring$ -- 92
+swap$ -- 64
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 2
+while$ -- 43
+width$ -- 0
+write$ -- 253
+(There were 2 warnings)

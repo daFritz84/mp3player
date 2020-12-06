@@ -1,0 +1,28 @@
+
+implementation of a reasonable event driven architecture
+http://www.embedded-systems.com/2000/0009/0009feat4.htm
+
+useful hints for handling avr-libc
+http://www.nongnu.org/avr-libc/user-manual/FAQ.html#faq_reg_usage
+
+avr-gcc sample makefile
+http://www.hookersandbooze.com/avr-gcc-makefile/
+
+assembler & c tutorial
+http://www.nongnu.org/avr-libc/user-manual/assembler.html
+
+sample combining c & asm
+http://www.nongnu.org/avr-libc/user-manual/group__asmdemo.html
+
+Mikrocontroller.net SD-Karten DO's & DON'TS
+http://www.mikrocontroller.net/articles/MMC-_und_SD-Karten
+
+FAT File Format
+http://members.inode.at/anton.zechner/az/FatFormat.htm
+http://msdn.microsoft.com/de-de/windows/hardware/gg463084
+
+detect power failure on avr
+http://www.avrfreaks.net/index.php?name=PNphpBB2&file=printview&t=57055&start=20
+
+VT100 Terminal Emulation
+http://www.termsys.demon.co.uk/vtansi.htm
